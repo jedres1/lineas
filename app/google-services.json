@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929746288056",
+    "project_id": "lineas-55574",
+    "storage_bucket": "lineas-55574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929746288056:android:c7dec31b2284396319a34d",
+        "android_client_info": {
+          "package_name": "com.example.lineas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929746288056-upvthlh94qil1psdu5mbu1jkto27dkbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3qK2kn2JVvtjhKFG0ANZoeLbxU8YfP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929746288056-upvthlh94qil1psdu5mbu1jkto27dkbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
